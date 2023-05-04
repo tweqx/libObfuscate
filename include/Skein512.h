@@ -15,7 +15,7 @@
 //
 ///////////////////////////////////////////////
 
-// Copyright 2022 tweqx
+// Copyright 2023 tweqx
 
 /* This file is part of LibrePuff.
 
