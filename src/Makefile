@@ -26,6 +26,7 @@ OBJ = $(patsubst %.c,$(BUILD_DIR)/%.o,$(SRC))
 .PHONY: build
 build: $(OBJ)
 	gcc -shared -o $(BUILD_DIR)/libObfuscate.so $(OBJ) -fPIC
+	ar rc $(BUILD_DIR)/libObfuscate.a $(OBJ) 
 
 $(BUILD_DIR)/%.o: %.c
 	mkdir -p $(BUILD_DIR)
