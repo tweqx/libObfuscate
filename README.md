@@ -17,4 +17,4 @@ EmbeddedSW's libObfuscate is part of this project. This code is released under L
 Its license can be found in lib/libObfuscate/license.txt
 The author (and copyright owner) is: http://www.embeddedsw.net/. Their homepage can be found at: http://www.embeddedsw.net/libobfuscate.html
 
-Modifications to the original liObfuscate are release under GPL v3.
+Modifications to the original liObfuscate are released under GPL v3.
